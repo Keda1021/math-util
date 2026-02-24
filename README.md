@@ -1,6 +1,8 @@
 # 🚀 Math Utility Project
 > Một dự án nhỏ giúp xử lý các phép tính toán học cơ bản.
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Developing-green?style=for-the-badge)
 ## 🛠️ Công nghệ sử dụng
 * Java 17
 * Maven
